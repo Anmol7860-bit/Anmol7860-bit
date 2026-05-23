@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on: Data Analysis, Machine Learning, and Tableau<br>👯 Open to collaborating on: Machine Learning projects<br>🤝 Seeking support in: Machine Learning, Deep Learning, and Exploratory Data Analysis (EDA)<br>🌱 Currently learning: PySpark, Azure, and SQL<br>💬 Ask me about: Data Analysis, Machine Learning fundamentals, and visualization with Tableau<br>⚡ Fun fact: Curiosity fuels my journey into data science, where I apply a consulting-oriented approach to problem-solving
+🔭 Currently working on: Data Analysis, Machine Learning, and Tableau<br>👯 Open to collaborating on: Machine Learning projects<br>🤝 Seeking support in: Machine Learning, Deep Learning, and Postgres SQL <br>🌱 Currently learning: Deep Learning,Fast API,Docker,AWS,Agentic Ai,Ai automation and Feature Engineering <br>💬 Ask me about: Data Analysis, Machine Learning fundamentals, and visualization with Tableau<br>⚡ Fun fact: Curiosity fuels my journey into data science, where I apply a consulting-oriented approach to problem-solving
 
 
 ## 🌐 Socials:
